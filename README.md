@@ -18,3 +18,6 @@ Traçando perfil das personas:
 8. Gestor de RH
   Gestor da RH. Vê funcionários insatisfeitos e muita demora nos processos. Vê com aflição a demora já que a organização não pode parar. Não sabe maneiras eficientes de ajudar. 
 
+
+
+![imagem](link da foto)
