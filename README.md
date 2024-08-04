@@ -1,22 +1,26 @@
 # SISTEMA DE GESTÃO DE RECURSOS HUMANOS
 
-Traçando perfil das personas:
+## Automatização de Processos
 
-1. Funcionário Recem Admitido
-   Um funcionário em processo de admissão, precisa apresentar documentações e está em    período de adaptação na organização. Suas maiores dificuldades são: Demora na         aprovação de documentação, falta de informação sobre os documentos necessários e      processos. 
+   1. Eficiência Operacional: Automatizar tarefas repetitivas, como controle de ponto, cálculo de folha de pagamento e gestão de        benefícios, para reduzir erros e liberar o tempo dos profissionais de RH para atividades mais estratégicas.
+   
+   2. Redução de Carga Administrativa: Minimizar o trabalho manual e a burocracia, o que pode resultar em uma administração mais        ágil e menos propensa a erros.
 
-2. Funcionário em processo de aposentadoria
-   Funcionários com anos de organização, sabe de todos os meandros da empresa e acha     que nada funciona como deveria. Suas maiores dificuldades são: Pouca instrução        sobre novas funcionalidades e procesos.
+## Centralização de Informações
 
-4. Funcionário Padrão
-   Funcionário médio da empresa. Sempre que precisa de alguma solicitação é atendido     com lentidão e está insatisfeito com isso. 
-    
+   1. Banco de Dados Único: Consolidar todas as informações dos colaboradores (dados pessoais, históricos de emprego, avaliações        de desempenho, etc.) em um único sistema para facilitar o acesso e a gestão.
+   
+   2. Acesso Imediato: Permitir que gestores e funcionários acessem informações relevantes de maneira rápida e segura.
 
-6. Funcionário RH
-   Membro do RH. Sobrecarregado e com acumulo de funções e cobranças demasiadas. Sente que mesmo que tente ajudar na solicitação, não é valorizado e que o sistema atual não e dinamico, não podendo intervir e ajudar no meio do processo. 
+## Gestão de Benefícios e Compensações
 
-8. Gestor de RH
-  Gestor da RH. Vê funcionários insatisfeitos e muita demora nos processos. Vê com aflição a demora já que a organização não pode parar. Não sabe maneiras eficientes de ajudar. 
+   1. Administração de Benefícios: Gerenciar benefícios oferecidos aos colaboradores, como planos de saúde, vale-alimentação e          outros, garantindo que sejam corretamente administrados e atualizados.
+   
+   2. Folha de Pagamento: Automatizar o processamento da folha de pagamento, incluindo salários, impostos e contribuições.
+
+
+
+
 
 
 
