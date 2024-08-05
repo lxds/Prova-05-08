@@ -41,7 +41,7 @@ O Human é uma aplicação web e mobile para gestão de recursos humanos, que si
 
 ### Web
 
-1. Acesse https://www.human.com.
+1. Acesse https://www.apphuman.com.br
 2. Crie uma conta ou faça login.
 3. Configure seu perfil.
 
