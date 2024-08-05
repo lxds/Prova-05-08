@@ -6,6 +6,12 @@ O Human é uma aplicação web e mobile para gestão de recursos humanos, que si
 
 ## Funcionalidades Principais
 
+![Carregamento](https://github.com/user-attachments/assets/a2421c05-5cad-472a-8c52-5e731138302f)
+![Login](https://github.com/user-attachments/assets/2d6bcc3a-38b0-4a7d-bc39-60c5e26cb9e7)
+![Visão geral](https://github.com/user-attachments/assets/8c934243-1b19-49f7-9427-e70b93fed3bb)
+![Realizar solicitaçã](https://github.com/user-attachments/assets/0443b097-d951-433d-83f4-871fe1a98ba2)
+![envio de documentação](https://github.com/user-attachments/assets/e4515171-77e6-4e90-affc-47f17dcc26da)
+
 ### Automatização de Processos
 
 - *Anexar Documentos*: Upload de atestados médicos, documentos pessoais, etc.
